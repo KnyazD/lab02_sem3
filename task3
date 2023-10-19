@@ -75,6 +75,6 @@ class Program
         documentWorker.EditDocument();
         documentWorker.SaveDocument();
 
-        Console.ReadLine(); я любл
+        Console.ReadLine();
     }
 }                                     
